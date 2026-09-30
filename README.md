@@ -1,4 +1,4 @@
-# EduGenie 🧞‍♂️ — Google Gemini Powered Learning Assistant
+# EduGenie — Google Gemini Powered Learning Assistant
 
 EduGenie is a lightweight AI-powered educational assistant that helps students:
 - Ask questions and get concise answers
@@ -61,5 +61,3 @@ Try each feature from the web page: ask a question, get an explanation, summariz
 Voice interaction, multilingual support, mobile app, progress dashboards, gamification, LMS integration.
 
 ---
-**Submitted by:** Tella Divya Sree
-**Mentor:** Siri
